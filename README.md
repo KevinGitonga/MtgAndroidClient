@@ -1,6 +1,6 @@
-# TriggeriseTask
+# MtgAndroidClient
 
-Source code for the Android Engineer Task by Triggerise.org.
+Android Client Application consuming Magic The Gathering Apis https://docs.magicthegathering.io/
 
 #Tools
 - Android studio Arctic Fox | 2020.3.1. 4.3
