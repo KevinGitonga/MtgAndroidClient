@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+  ~ /**
+  ~  * Created by kevingitonga on 29/11/2021, 11:32
+  ~  * Copyright (c) 2021 . All rights reserved.
+  ~  * Last modified 29/11/2021, 11:32
+  ~  */
+  -->
+
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item>
+        <shape android:shape="rectangle" android:padding="30dp" >
+            <solid android:color="@color/white"/>
+            <corners
+                android:bottomRightRadius="1dp"
+                android:bottomLeftRadius="1dp"
+                android:topLeftRadius="1dp"
+                android:topRightRadius="1dp"/>
+
+            <padding
+                android:left="10dp"
+                android:top="10dp"
+                android:right="10dp"
+                android:bottom="10dp"
+                />
+        </shape>
+    </item>
+</layer-list>

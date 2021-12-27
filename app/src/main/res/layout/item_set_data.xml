@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginStart="4.0dip"
+    android:layout_marginLeft="4.0dip"
+    android:layout_marginTop="4.0dip"
+    android:layout_marginEnd="4.0dip"
+    android:layout_marginRight="4.0dip"
+    android:layout_marginBottom="4dp"
+    android:elevation="7dp"
+    app:layout_constraintBottom_toBottomOf="parent"
+    app:layout_constraintStart_toStartOf="parent">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/container_name"
+        android:layout_width="fill_parent"
+        android:layout_height="match_parent">
+
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="2.0dip"
+            android:background="@color/white"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintStart_toStartOf="parent" />
+
+
+        <TextView
+            android:id="@+id/tvSetName"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:textColor="@color/colorText"
+            android:layout_centerInParent="true"
+            android:layout_marginStart="10.0dip"
+            android:layout_marginTop="10dp"
+            android:layout_marginEnd="5dp"
+            android:ellipsize="end"
+            android:lines="1"
+            android:text="Tenth Edition"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <TextView
+            android:id="@+id/tvReleaseDate"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/tvSetName"
+            android:textColor="@color/colorText"
+            android:layout_marginStart="10.0dip"
+            android:layout_marginTop="3dp"
+            android:layout_marginEnd="5dp"
+            android:layout_marginBottom="@dimen/dp_5"
+            app:layout_constraintStart_toStartOf="parent"
+            android:ellipsize="end"
+            android:lines="1"
+            android:text="08/11/2020"
+            android:textSize="12sp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/tvSetName" />
+
+        <TextView
+            android:id="@+id/setBlockType"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/tvSetName"
+            android:layout_marginStart="10.0dip"
+            android:textColor="@color/colorText"
+            android:layout_marginTop="3dp"
+            android:layout_marginEnd="5dp"
+            android:layout_marginBottom="@dimen/dp_5"
+            app:layout_constraintStart_toStartOf="parent"
+            android:ellipsize="end"
+            android:lines="1"
+            android:text="Core Set"
+            android:textSize="14sp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/tvReleaseDate" />
+
+        <TextView
+            android:id="@+id/setType"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/tvSetName"
+            android:layout_marginStart="10.0dip"
+            android:textColor="@color/colorText"
+            android:layout_marginTop="3dp"
+            android:layout_marginEnd="5dp"
+            android:layout_marginBottom="@dimen/dp_5"
+            app:layout_constraintStart_toStartOf="parent"
+            android:ellipsize="end"
+            android:lines="1"
+            android:text="Core"
+            android:textSize="14sp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/setBlockType" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</androidx.cardview.widget.CardView>

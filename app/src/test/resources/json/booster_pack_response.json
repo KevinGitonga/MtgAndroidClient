@@ -1,0 +1,1980 @@
+{
+  "cards": [
+    {
+      "name": "Mahamoti Djinn",
+      "manaCost": "{4}{U}{U}",
+      "cmc": 6.0,
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "U"
+      ],
+      "type": "Creature — Djinn",
+      "types": [
+        "Creature"
+      ],
+      "subtypes": [
+        "Djinn"
+      ],
+      "rarity": "Rare",
+      "set": "10E",
+      "setName": "Tenth Edition",
+      "text": "Flying (This creature can't be blocked except by creatures with flying or reach.)",
+      "flavor": "Of royal blood among the spirits of the air, the Mahamoti djinn rides on the wings of the winds. As dangerous in the gambling hall as he is in battle, he is a master of trickery and misdirection.",
+      "artist": "Greg Staples",
+      "number": "90",
+      "power": "5",
+      "toughness": "6",
+      "layout": "normal",
+      "multiverseid": "129633",
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=129633&type=card",
+      "variations": [
+        "206c4a07-1442-5fee-acd8-7a8a00da57a4"
+      ],
+      "foreignNames": [
+        {
+          "name": "Mahamoti-Dschinn",
+          "text": "Fliegend (Diese Kreatur kann außer von fliegenden Kreaturen und Kreaturen mit Reichweite nicht geblockt werden.)",
+          "type": "Kreatur — Dschinn",
+          "flavor": "Als König der Geister der Lüfte reitet der Mahamoti-Dschinn auf den Flügeln der Winde. Im Kampf und im Spiel ist er ein gefährlicher Gegner, und zudem ein Meister der Täuschung.",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=148585&type=card",
+          "language": "German",
+          "multiverseid": 148585
+        },
+        {
+          "name": "Djinn Mahamoti",
+          "text": "Vuela. (Esta criatura no puede ser bloqueada excepto por criaturas que tengan la habilidad de volar o alcance.)",
+          "type": "Criatura — Djinn",
+          "flavor": "De sangre real entre los espíritus del aire, el djinn Mahamoti cabalga sobre las alas de los vientos. Es tan peligroso en el salón de juego como en batalla, y es un maestro del engaño y la información errónea.",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=150406&type=card",
+          "language": "Spanish",
+          "multiverseid": 150406
+        },
+        {
+          "name": "Djinn mahâmot",
+          "text": "Vol (Cette créature ne peut être bloquée que par des créatures avec le vol ou la portée.)",
+          "type": "Créature : djinn",
+          "flavor": "Noble d'entre les plus nobles esprits de l'air, le djinn mahâmot voyage sur les ailes du vent. Maître de la ruse et du mensonge, il est aussi redoutable au jeu que sur le champ de bataille.",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=150023&type=card",
+          "language": "French",
+          "multiverseid": 150023
+        },
+        {
+          "name": "Genio Mahamoti",
+          "text": "Volare (Questa creatura non può essere bloccata tranne che da creature con volare o raggiungere.)",
+          "type": "Creatura — Genio",
+          "flavor": "Di sangue nobile tra gli spiriti dell'aria, il genio Mahamoti cavalca sulle ali del vento. Pericoloso nelle sale da gioco come in battaglia, è un maestro degli inganni e delle truffe.",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=148968&type=card",
+          "language": "Italian",
+          "multiverseid": 148968
+        },
+        {
+          "name": "マハモティ・ジン",
+          "text": "飛行 （このクリーチャーは飛行や到達を持たないクリーチャーによってブロックされない。）",
+          "type": "クリーチャー — ジン",
+          "flavor": "マハモティ・ジンは大気の精霊たちの中でも高貴な血筋につながり、風の翼で空を駆ける。 彼は計略と詐術の名手であり、戦場はもちろん、賭博場においても危険な存在となる。",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=148202&type=card",
+          "language": "Japanese",
+          "multiverseid": 148202
+        },
+        {
+          "name": "Gênio Mahamoti",
+          "text": "Voar (Esta criatura só pode ser bloqueada por criaturas com a habilidade de voar ou alcance.)",
+          "type": "Criatura — Gênio",
+          "flavor": "Sangue real entre os espíritos do ar, o gênio Mahamoti cavalga nas asas dos ventos. Tão perigoso nos salões de jogos como na batalha, ele é um mestre dos truques e engodos.",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=149640&type=card",
+          "language": "Portuguese (Brazil)",
+          "multiverseid": 149640
+        },
+        {
+          "name": "Джинн Магамоти",
+          "text": "Полет (Это существо может быть заблокировано только существом с Полетом или Захватом.)",
+          "type": "Существо — Джинн",
+          "flavor": "Джинн Магамоти, дух воздуха королевских кровей, летает на крыльях ветра. Он одинаково опасен как за игровым столом, так и в битве. Никто лучше него не умеет обманывать и сбивать с пути.",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=149257&type=card",
+          "language": "Russian",
+          "multiverseid": 149257
+        },
+        {
+          "name": "神灯巨灵",
+          "text": "飞行（只有具飞行或延势异能的生物才能阻挡它。）",
+          "type": "生物～巨灵",
+          "flavor": "神灯巨灵乘着风的翅膀，拥有大气精怪中的高贵血统。 他是诡计与误导的专家，不论身处赌场或战场都是一等高手。",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=147819&type=card",
+          "language": "Chinese Simplified",
+          "multiverseid": 147819
+        }
+      ],
+      "printings": [
+        "10E",
+        "2ED",
+        "3ED",
+        "4BB",
+        "4ED",
+        "7ED",
+        "8ED",
+        "9ED",
+        "BTD",
+        "CED",
+        "CEI",
+        "DPA",
+        "FBB",
+        "IMA",
+        "LEA",
+        "LEB",
+        "M15",
+        "MB1",
+        "ME4",
+        "ORI",
+        "PS11",
+        "SUM",
+        "UMA"
+      ],
+      "originalText": "Flying (This creature can't be blocked except by creatures with flying or reach.)",
+      "originalType": "Creature - Djinn",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Duel",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Paupercommander",
+          "legality": "Restricted"
+        },
+        {
+          "format": "Penny",
+          "legality": "Legal"
+        },
+        {
+          "format": "Pioneer",
+          "legality": "Legal"
+        },
+        {
+          "format": "Premodern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "id": "404d6f98-eefb-5dea-8e81-aed2b5956437"
+    },
+    {
+      "name": "Fog Elemental",
+      "manaCost": "{2}{U}",
+      "cmc": 3.0,
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "U"
+      ],
+      "type": "Creature — Elemental",
+      "types": [
+        "Creature"
+      ],
+      "subtypes": [
+        "Elemental"
+      ],
+      "rarity": "Uncommon",
+      "set": "10E",
+      "setName": "Tenth Edition",
+      "text": "Flying (This creature can't be blocked except by creatures with flying or reach.)\nWhen Fog Elemental attacks or blocks, sacrifice it at end of combat.",
+      "flavor": "\"It's the perfect sentry. Those who should pass can go right through it.\"\n—Teferi",
+      "artist": "Jon J Muth",
+      "number": "85",
+      "power": "4",
+      "toughness": "4",
+      "layout": "normal",
+      "multiverseid": "132073",
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=132073&type=card",
+      "variations": [
+        "6c515488-2a63-5b1e-84a4-987b5fa993af"
+      ],
+      "foreignNames": [
+        {
+          "name": "Nebelelementar",
+          "text": "Fliegend (Diese Kreatur kann außer von fliegenden Kreaturen und Kreaturen mit Reichweite nicht geblockt werden.)\nWenn das Nebelelementar angreift oder blockt, opfere es am Ende des Kampfes.",
+          "type": "Kreatur — Elementarwesen",
+          "flavor": "„Es ist ein perfekter Wachposten. Diejenigen, die es vorbeilassen soll, können direkt durch es hindurchgehen.\" —Teferi",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=148508&type=card",
+          "language": "German",
+          "multiverseid": 148508
+        },
+        {
+          "name": "Elemental de la niebla",
+          "text": "Vuela. (Esta criatura no puede ser bloqueada excepto por criaturas que tengan la habilidad de volar o alcance.)\nCuando el Elemental de la niebla ataque o bloquee, sacrifícalo al final del combate.",
+          "type": "Criatura — Elemental",
+          "flavor": "\"Es el centinela perfecto. Aquellos que deberían pasar pueden hacerlo a través de él.\" —Teferi",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=150401&type=card",
+          "language": "Spanish",
+          "multiverseid": 150401
+        },
+        {
+          "name": "Élémental de brouillard",
+          "text": "Vol (Cette créature ne peut être bloquée que par des créatures avec le vol ou la portée.)\nQuand l'Élémental de brouillard attaque ou bloque, sacrifiez-le à la fin du combat.",
+          "type": "Créature : élémental",
+          "flavor": "« C'est la sentinelle idéale. Ceux qui ont l'autorisation de passer le traversent sans encombre. » —Téfeiri",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=150018&type=card",
+          "language": "French",
+          "multiverseid": 150018
+        },
+        {
+          "name": "Elementale della Nebbia",
+          "text": "Volare (Questa creatura non può essere bloccata tranne che da creature con volare o raggiungere.)\nQuando l'Elementale della Nebbia attacca o blocca, sacrificalo alla fine del combattimento.",
+          "type": "Creatura — Elementale",
+          "flavor": "\"E' la sentinella perfetta. Quelli che devono passare possono semplicemente attraversarla.\" —Teferi",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=148891&type=card",
+          "language": "Italian",
+          "multiverseid": 148891
+        },
+        {
+          "name": "濃霧の精霊",
+          "text": "飛行 （このクリーチャーは飛行や到達を持たないクリーチャーによってブロックされない。）\n濃霧の精霊が攻撃かブロックしたとき、戦闘終了時にそれを生け贄に捧げる。",
+          "type": "クリーチャー — エレメンタル",
+          "flavor": "こいつは完璧な歩哨だ。 中を抜けられるのは、許可された者だけなんだから。 ――テフェリー",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=148125&type=card",
+          "language": "Japanese",
+          "multiverseid": 148125
+        },
+        {
+          "name": "Elemental da Neblina",
+          "text": "Voar (Esta criatura só pode ser bloqueada por criaturas com a habilidade de voar ou alcance.)\nQuando Elemental da Neblina atacar ou bloquear, sacrifique-o no final do combate.",
+          "type": "Criatura — Elemental",
+          "flavor": "\"É o sentinela perfeito. Aqueles que devem passar podem atravessá-lo diretamente.\" — Teferi",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=149635&type=card",
+          "language": "Portuguese (Brazil)",
+          "multiverseid": 149635
+        },
+        {
+          "name": "Элементаль Тумана",
+          "text": "Полет (Это существо может быть заблокировано только существом с Полетом или Захватом.)\nКогда Элементаль Тумана атакует или блокирует, пожертвуйте его в конце боя.",
+          "type": "Существо — Элементаль",
+          "flavor": "\"Он идеальный страж. Те, кого можно пропустить, проходят прямо сквозь него\". — Тефери",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=149252&type=card",
+          "language": "Russian",
+          "multiverseid": 149252
+        },
+        {
+          "name": "雾元素",
+          "text": "飞行（只有具飞行或延势异能的生物才能阻挡它。）\n当雾元素攻击或阻挡，在战斗结束时将它牺牲。",
+          "type": "生物～元素",
+          "flavor": "「它是完美的哨兵。 该过关的人可以直接穿越。」 ～泰菲力",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=147742&type=card",
+          "language": "Chinese Simplified",
+          "multiverseid": 147742
+        }
+      ],
+      "printings": [
+        "10E",
+        "6ED",
+        "BTD",
+        "WTH"
+      ],
+      "originalText": "Flying (This creature can't be blocked except by creatures with flying or reach.)\nWhen Fog Elemental attacks or blocks, sacrifice it at end of combat.",
+      "originalType": "Creature - Elemental",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Duel",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Pauper",
+          "legality": "Legal"
+        },
+        {
+          "format": "Paupercommander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Penny",
+          "legality": "Legal"
+        },
+        {
+          "format": "Premodern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "id": "5d45d146-5a42-502e-affb-71f3e81cf7e0"
+    },
+    {
+      "name": "Cryoclasm",
+      "manaCost": "{2}{R}",
+      "cmc": 3.0,
+      "colors": [
+        "Red"
+      ],
+      "colorIdentity": [
+        "R"
+      ],
+      "type": "Sorcery",
+      "types": [
+        "Sorcery"
+      ],
+      "rarity": "Uncommon",
+      "set": "10E",
+      "setName": "Tenth Edition",
+      "text": "Destroy target Plains or Island. Cryoclasm deals 3 damage to that land's controller.",
+      "flavor": "The people of Terisiare had come to live on frozen fields as though on solid ground. Nothing reminded them of the difference more clearly than the rifts brought on by the Thaw.",
+      "artist": "Zoltan Boros & Gabor Szikszai",
+      "number": "195",
+      "layout": "normal",
+      "multiverseid": "129909",
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=129909&type=card",
+      "foreignNames": [
+        {
+          "name": "Kryozertrümmerung",
+          "text": "Zerstöre eine Ebene oder eine Insel deiner Wahl. Kryozertrümmerung fügt dem Beherrscher dieses Lands 3 Schadenspunkte zu.",
+          "type": "Hexerei",
+          "flavor": "Die Völker von Terisiare hatten sich daran gewöhnt, auf gefrorenen Feldern zu leben, als ob es fester Boden wäre. Den Unterschied mussten sie erst wieder lernen, als die Tauperiode tiefe Risse mit sich brachte.",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=148470&type=card",
+          "language": "German",
+          "multiverseid": 148470
+        },
+        {
+          "name": "Detonación gélida",
+          "text": "Destruye la llanura o isla objetivo. La Detonación gélida hace 3 puntos de daño al controlador de esa tierra.",
+          "type": "Conjuro",
+          "flavor": "La gente de Terisiare vivía en campos congelados como si fuera terreno sólido. Nada les hacía notar tanto la diferencia como las brechas abiertas por el Deshielo.",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=150511&type=card",
+          "language": "Spanish",
+          "multiverseid": 150511
+        },
+        {
+          "name": "Cryoclasme",
+          "text": "Détruisez la plaine ciblée ou l'île ciblée. Le Cryoclasme inflige 3 blessures au contrôleur de ce terrain.",
+          "type": "Rituel",
+          "flavor": "La population de Terisiare vivait sur la glace, convaincue de sa solidité. Sa rupture, due au Dégel, lui fit reprendre conscience de la dure réalité.",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=150128&type=card",
+          "language": "French",
+          "multiverseid": 150128
+        },
+        {
+          "name": "Crioclasma",
+          "text": "Distruggi una Pianura o un'Isola bersaglio. Il Crioclasma infligge 3 danni al controllore di quella terra.",
+          "type": "Stregoneria",
+          "flavor": "Gli abitanti di Terisiare si erano abituati a vivere sui campi ghiacciati come se fossero solido terreno. Ma la differenza fu loro ben chiara davanti ai crepacci aperti dal Disgelo.",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=148853&type=card",
+          "language": "Italian",
+          "multiverseid": 148853
+        },
+        {
+          "name": "氷結地獄",
+          "text": "平地１つか島１つを対象とし、それを破壊する。 氷結地獄はその土地のコントローラーに３点のダメージを与える。",
+          "type": "ソーサリー",
+          "flavor": "テリシアの人々は、まるで硬い大地の上のように氷の平原で生活していた。 \"雪解けの時\"が裂け目を作るまでは、誰もその違いを気に留めもしなかった。",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=148087&type=card",
+          "language": "Japanese",
+          "multiverseid": 148087
+        },
+        {
+          "name": "Crioclasma",
+          "text": "Destrua a Planície ou Ilha alvo. Crioclasma causa 3 pontos de dano ao controlador daquele terreno.",
+          "type": "Feitiço",
+          "flavor": "O povo de Terisiare veio para viver em campos congelados como se fosse terra firme. Nada os lembrava da diferença mais claramente que as rachaduras causadas pelo Degelo.",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=149745&type=card",
+          "language": "Portuguese (Brazil)",
+          "multiverseid": 149745
+        },
+        {
+          "name": "Ледолом",
+          "text": "Уничтожьте целевую Равнину или Остров. Ледолом наносит 3 повреждения игроку, контролирующему ту землю.",
+          "type": "Волшебство",
+          "flavor": "Народы Терисиара привыкли жить на этих ледяных полях, как будто это твердая почва. Но различие стало слишком очевидным, когда Оттепель стала вызывать разломы.",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=149362&type=card",
+          "language": "Russian",
+          "multiverseid": 149362
+        },
+        {
+          "name": "凛寒断层",
+          "text": "消灭目标平原或海岛。 凛寒断层对该地的操控者造成3点伤害。",
+          "type": "法术",
+          "flavor": "泰瑞西亚居民开始在冰结地表上居住，把此处当成是平稳大地。 在大解冻来临、裂口四现之前，他们几乎忘记了其间的不同。",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=147704&type=card",
+          "language": "Chinese Simplified",
+          "multiverseid": 147704
+        }
+      ],
+      "printings": [
+        "10E",
+        "CSP"
+      ],
+      "originalText": "Destroy target Plains or Island. Cryoclasm deals 3 damage to that land's controller.",
+      "originalType": "Sorcery",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Duel",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Penny",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "id": "ab4f32a2-6671-5724-8ce9-6b721a5f2417"
+    },
+    {
+      "name": "Megrim",
+      "manaCost": "{2}{B}",
+      "cmc": 3.0,
+      "colors": [
+        "Black"
+      ],
+      "colorIdentity": [
+        "B"
+      ],
+      "type": "Enchantment",
+      "types": [
+        "Enchantment"
+      ],
+      "rarity": "Uncommon",
+      "set": "10E",
+      "setName": "Tenth Edition",
+      "text": "Whenever an opponent discards a card, Megrim deals 2 damage to that player.",
+      "flavor": "\"Pain is both a tool and a craft. Like any tool, it must be sharpened. Like any craft, it must be practiced.\"\n—Hooks, Cabal torturer",
+      "artist": "Nick Percival",
+      "number": "157",
+      "layout": "normal",
+      "multiverseid": "129640",
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=129640&type=card",
+      "foreignNames": [
+        {
+          "name": "Schwermut",
+          "text": "Immer wenn ein Gegner eine Karte abwirft, fügt Schwermut diesem Spieler 2 Schadenspunkte zu.",
+          "type": "Verzauberung",
+          "flavor": "„Schmerz ist sowohl ein Werkzeug als auch ein Handwerk. Wie jedes Werkzeug muss er immer wieder geschärft werden. Wie jedes Handwerk muss er immer wieder geübt werden.\" —Hooks, Kabbalisten-Folterknecht",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=148590&type=card",
+          "language": "German",
+          "multiverseid": 148590
+        },
+        {
+          "name": "Jaqueca",
+          "text": "Siempre que un oponente descarte una carta, la Jaqueca hace 2 puntos de daño a ese jugador.",
+          "type": "Encantamiento",
+          "flavor": "\"El dolor es tanto una herramienta como un arte. Como cualquier herramienta, debe ser afilada. Como cualquier arte, debe ser practicado.\" —Garfios, torturador de la Cábala.",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=150473&type=card",
+          "language": "Spanish",
+          "multiverseid": 150473
+        },
+        {
+          "name": "Céphalalgie",
+          "text": "À chaque fois qu'un adversaire se défausse d'une carte, la Céphalalgie lui inflige 2 blessures.",
+          "type": "Enchantement",
+          "flavor": "« Cloués au sol, de honte et de céphalalgies … » — Arthur Rimbaud, Poésies",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=150090&type=card",
+          "language": "French",
+          "multiverseid": 150090
+        },
+        {
+          "name": "Emicrania",
+          "text": "Ogniqualvolta un avversario scarta una carta, l'Emicrania infligge 2 danni a quel giocatore.",
+          "type": "Incantesimo",
+          "flavor": "\"Il dolore è sia uno strumento che un'arte. Come tutti gli strumenti, deve essere affilato. Come tutte le arti, deve essere esercitato.\" —Uncino, torturatore della Cabala",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=148973&type=card",
+          "language": "Italian",
+          "multiverseid": 148973
+        },
+        {
+          "name": "偏頭痛",
+          "text": "いずれかの対戦相手がカードを１枚捨てるたび、偏頭痛はそのプレイヤーに２点のダメージを与える。",
+          "type": "エンチャント",
+          "flavor": "苦痛は道具であり技術だ。 道具と一緒で研ぎ澄まさなくちゃいけないし、 技術と一緒で鍛えなきゃいけない。 ――陰謀団の拷問官、フックス",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=148207&type=card",
+          "language": "Japanese",
+          "multiverseid": 148207
+        },
+        {
+          "name": "Enxaqueca",
+          "text": "Toda vez que um oponente descarta um card, Enxaqueca causa 2 pontos de dano àquele jogador.",
+          "type": "Encantamento",
+          "flavor": "\"A dor é uma ferramenta e uma arte. Como qualquer ferramenta, deve ser afiada. Como qualquer arte, deve ser praticada.\" — Hooks, torturador da Cabala",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=149707&type=card",
+          "language": "Portuguese (Brazil)",
+          "multiverseid": 149707
+        },
+        {
+          "name": "Мигрень",
+          "text": "Каждый раз, когда оппонент сбрасывает карту, Мигрень наносит тому игроку 2 повреждения.",
+          "type": "Чары",
+          "flavor": "\"Боль это и орудие, и мастерство. Как любое орудие, его надо затачивать. Как любое мастерство, его надо оттачивать\". — Хукс, мучитель Кабалов",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=149324&type=card",
+          "language": "Russian",
+          "multiverseid": 149324
+        },
+        {
+          "name": "偏头痛",
+          "text": "每当对手弃一张牌时，偏头痛对该牌手造成2点伤害。",
+          "type": "结界",
+          "flavor": "「痛苦是工具，也是技艺。 一如工具，它得磨利。 一如技艺，它得施展。」 ～柯帮刑吏虎克",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=147824&type=card",
+          "language": "Chinese Simplified",
+          "multiverseid": 147824
+        }
+      ],
+      "printings": [
+        "10E",
+        "7ED",
+        "8ED",
+        "9ED",
+        "DPA",
+        "M10",
+        "PS11",
+        "STH"
+      ],
+      "originalText": "Whenever an opponent discards a card, Megrim deals 2 damage to that player.",
+      "originalType": "Enchantment",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Duel",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Penny",
+          "legality": "Legal"
+        },
+        {
+          "format": "Premodern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "id": "0c960d75-fd2e-5a5a-ba78-58e10530fea0"
+    },
+    {
+      "name": "Dehydration",
+      "manaCost": "{3}{U}",
+      "cmc": 4.0,
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "U"
+      ],
+      "type": "Enchantment — Aura",
+      "types": [
+        "Enchantment"
+      ],
+      "subtypes": [
+        "Aura"
+      ],
+      "rarity": "Common",
+      "set": "10E",
+      "setName": "Tenth Edition",
+      "text": "Enchant creature (Target a creature as you cast this. This card enters the battlefield attached to that creature.)\nEnchanted creature doesn't untap during its controller's untap step.",
+      "flavor": "The viashino used the spell to dry foods for crossing the Great Desert. The Suq'Ata later discovered its use in war.",
+      "artist": "Arnie Swekel",
+      "number": "78★",
+      "layout": "normal",
+      "variations": [
+        "5a50a7e8-2ed1-5e8a-8867-c96f1186bd47"
+      ],
+      "printings": [
+        "10E",
+        "8ED",
+        "9ED",
+        "MMQ",
+        "PSAL"
+      ],
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Duel",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Pauper",
+          "legality": "Legal"
+        },
+        {
+          "format": "Paupercommander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Penny",
+          "legality": "Legal"
+        },
+        {
+          "format": "Premodern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "id": "2bbaf3d6-9fbc-5ab8-93d3-d26e2ddec999"
+    },
+    {
+      "name": "Mountain",
+      "cmc": 0.0,
+      "colorIdentity": [
+        "R"
+      ],
+      "type": "Basic Land — Mountain",
+      "supertypes": [
+        "Basic"
+      ],
+      "types": [
+        "Land"
+      ],
+      "subtypes": [
+        "Mountain"
+      ],
+      "rarity": "Common",
+      "set": "10E",
+      "setName": "Tenth Edition",
+      "text": "({T}: Add {R}.)",
+      "artist": "John Avon",
+      "number": "378",
+      "layout": "normal",
+      "multiverseid": "129651",
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=129651&type=card",
+      "variations": [
+        "c1f98960-ef31-5ec9-af8d-d6d56169047b",
+        "3e12f3ab-96ab-5d5a-8bed-92b37ffee9aa",
+        "47e1bdab-e112-526d-bd9f-7f1cffef7187"
+      ],
+      "printings": [
+        "10E",
+        "2ED",
+        "2XM",
+        "3ED",
+        "4BB",
+        "4ED",
+        "5ED",
+        "6ED",
+        "7ED",
+        "8ED",
+        "9ED",
+        "AFR",
+        "AKH",
+        "AKR",
+        "ALA",
+        "ANA",
+        "ANB",
+        "ARC",
+        "ARN",
+        "ATH",
+        "AVR",
+        "BBD",
+        "BFZ",
+        "BRB",
+        "BTD",
+        "C13",
+        "C14",
+        "C15",
+        "C16",
+        "C17",
+        "C18",
+        "C19",
+        "CED",
+        "CEI",
+        "CHK",
+        "CM2",
+        "CMA",
+        "CMD",
+        "CMR",
+        "CST",
+        "DD1",
+        "DD2",
+        "DDE",
+        "DDG",
+        "DDH",
+        "DDI",
+        "DDJ",
+        "DDK",
+        "DDL",
+        "DDN",
+        "DDP",
+        "DDS",
+        "DDT",
+        "DDU",
+        "DKM",
+        "DOM",
+        "DPA",
+        "DTK",
+        "E01",
+        "ELD",
+        "EVG",
+        "FBB",
+        "FRF",
+        "G17",
+        "GK1",
+        "GK2",
+        "GN2",
+        "GNT",
+        "GRN",
+        "GS1",
+        "H09",
+        "HOP",
+        "HOU",
+        "ICE",
+        "IKO",
+        "INV",
+        "ISD",
+        "ITP",
+        "J14",
+        "JMP",
+        "JVC",
+        "KHM",
+        "KLD",
+        "KLR",
+        "KTK",
+        "LEA",
+        "LEB",
+        "LRW",
+        "M10",
+        "M11",
+        "M12",
+        "M13",
+        "M14",
+        "M15",
+        "M19",
+        "M20",
+        "M21",
+        "MBS",
+        "ME1",
+        "ME3",
+        "MH2",
+        "MID",
+        "MIR",
+        "MMQ",
+        "MRD",
+        "NPH",
+        "ODY",
+        "ONS",
+        "ORI",
+        "P02",
+        "PAL00",
+        "PAL01",
+        "PAL03",
+        "PAL04",
+        "PAL05",
+        "PAL06",
+        "PAL99",
+        "PALP",
+        "PANA",
+        "PARL",
+        "PC2",
+        "PCA",
+        "PD2",
+        "PELP",
+        "PF19",
+        "PF20",
+        "PGPX",
+        "PGRU",
+        "PLIST",
+        "PMPS",
+        "PMPS06",
+        "PMPS07",
+        "PMPS08",
+        "PMPS09",
+        "PMPS10",
+        "PMPS11",
+        "POR",
+        "PPP1",
+        "PRM",
+        "PRW2",
+        "PRWK",
+        "PS11",
+        "PSAL",
+        "PSS2",
+        "PSS3",
+        "PTC",
+        "PTK",
+        "PZ2",
+        "RAV",
+        "RIX",
+        "RNA",
+        "ROE",
+        "RQS",
+        "RTR",
+        "S99",
+        "SHM",
+        "SLD",
+        "SOI",
+        "SOM",
+        "STX",
+        "SUM",
+        "TD0",
+        "THB",
+        "THS",
+        "TMP",
+        "TPR",
+        "TSP",
+        "UGL",
+        "UND",
+        "UNH",
+        "USG",
+        "UST",
+        "VOW",
+        "WAR",
+        "WC00",
+        "WC01",
+        "WC02",
+        "WC03",
+        "WC97",
+        "WC98",
+        "WC99",
+        "XANA",
+        "XLN",
+        "ZEN",
+        "ZNR"
+      ],
+      "originalText": "R",
+      "originalType": "Basic Land - Mountain",
+      "legalities": [
+        {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Duel",
+          "legality": "Legal"
+        },
+        {
+          "format": "Future",
+          "legality": "Legal"
+        },
+        {
+          "format": "Gladiator",
+          "legality": "Legal"
+        },
+        {
+          "format": "Historic",
+          "legality": "Legal"
+        },
+        {
+          "format": "Historicbrawl",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Pauper",
+          "legality": "Legal"
+        },
+        {
+          "format": "Paupercommander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Penny",
+          "legality": "Legal"
+        },
+        {
+          "format": "Pioneer",
+          "legality": "Legal"
+        },
+        {
+          "format": "Premodern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "id": "87d6bcfb-0e75-59f7-be6c-30aa7c344ccb"
+    },
+    {
+      "name": "Viashino Sandscout",
+      "manaCost": "{1}{R}",
+      "cmc": 2.0,
+      "colors": [
+        "Red"
+      ],
+      "colorIdentity": [
+        "R"
+      ],
+      "type": "Creature — Viashino Scout",
+      "types": [
+        "Creature"
+      ],
+      "subtypes": [
+        "Viashino",
+        "Scout"
+      ],
+      "rarity": "Common",
+      "set": "10E",
+      "setName": "Tenth Edition",
+      "text": "Haste (This creature can attack and {T} as soon as it comes under your control.)\nAt the beginning of the end step, return Viashino Sandscout to its owner's hand. (Return it only if it's on the battlefield.)",
+      "flavor": "A viashino's overlapping scales form a buffer against Shiv's ash-flecked winds and a slippery target for goblin pikes.",
+      "artist": "Scott M. Fischer",
+      "number": "246★",
+      "power": "2",
+      "toughness": "1",
+      "layout": "normal",
+      "variations": [
+        "1c1fe501-7af9-5df6-9b1e-7187f5445d85"
+      ],
+      "rulings": [
+        {
+          "date": "2004-10-04",
+          "text": "It is returned to its owner’s hand at the end of turn only if it is on the battlefield."
+        }
+      ],
+      "printings": [
+        "10E",
+        "ULG"
+      ],
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Duel",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Pauper",
+          "legality": "Legal"
+        },
+        {
+          "format": "Paupercommander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Penny",
+          "legality": "Legal"
+        },
+        {
+          "format": "Premodern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "id": "1b122375-8e96-5a83-969a-2d772eceba4d"
+    },
+    {
+      "name": "Dehydration",
+      "manaCost": "{3}{U}",
+      "cmc": 4.0,
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "U"
+      ],
+      "type": "Enchantment — Aura",
+      "types": [
+        "Enchantment"
+      ],
+      "subtypes": [
+        "Aura"
+      ],
+      "rarity": "Common",
+      "set": "10E",
+      "setName": "Tenth Edition",
+      "text": "Enchant creature (Target a creature as you cast this. This card enters the battlefield attached to that creature.)\nEnchanted creature doesn't untap during its controller's untap step.",
+      "artist": "Arnie Swekel",
+      "number": "78",
+      "layout": "normal",
+      "multiverseid": "129521",
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=129521&type=card",
+      "variations": [
+        "2bbaf3d6-9fbc-5ab8-93d3-d26e2ddec999"
+      ],
+      "foreignNames": [
+        {
+          "name": "Wassermangel",
+          "text": "Kreaturenverzauberung (Bestimme eine Kreatur als Ziel, sowie du diese Karte spielst. Diese Karte kommt an die Kreatur angelegt ins Spiel.)\nDie verzauberte Kreatur enttappt nicht während des Enttappsegments ihres Beherrschers.",
+          "type": "Verzauberung — Aura",
+          "flavor": "Die Viashino verwendeten den Zauber, um Nahrung zu trocknen, wenn sie die Große Wüste durchqueren wollten. Später entdeckten die Suq'Ata, dass er sich auch im Krieg hervorragend anwenden ließ.",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=148472&type=card",
+          "language": "German",
+          "multiverseid": 148472
+        },
+        {
+          "name": "Deshidratación",
+          "text": "Encantar criatura. (Haz objetivo a una criatura al jugarlo. Esta carta entra en juego anexada a esa criatura.)\nLa criatura encantada no se endereza durante el paso de enderezar de su controlador.",
+          "type": "Encantamiento — Aura",
+          "flavor": "Los viashino usaban el hechizo para secar comida para cruzar el Gran Desierto. Luego los Suq'Ata descubrieron su uso para la guerra.",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=150394&type=card",
+          "language": "Spanish",
+          "multiverseid": 150394
+        },
+        {
+          "name": "Déshydratation",
+          "text": "Enchanter : créature (Ciblez une créature au moment où vous jouez cette carte. Cette carte arrive en jeu attachée à cette créature.)\nLa créature enchantée ne se dégage pas pendant l'étape de dégagement de son contrôleur.",
+          "type": "Enchantement : aura",
+          "flavor": "Les viashinos utilisaient ce sort pour sécher la nourriture avant de traverser le Grand désert. Les souk'atas ont plus tard découvert son utilité au combat.",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=150011&type=card",
+          "language": "French",
+          "multiverseid": 150011
+        },
+        {
+          "name": "Disidratazione",
+          "text": "Incanta creatura (Bersaglia una creatura mentre giochi questa carta. Questa carta entra in gioco assegnata a quella creatura.)\nLa creatura incantata non STAPpa durante lo STAP del suo controllore.",
+          "type": "Incantesimo — Aura",
+          "flavor": "I viashino usavano questa magia per essiccare i cibi nelle traversate del Grande Deserto. I Suq'Ata in seguito ne scoprirono l'utilizzo in guerra.",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=148855&type=card",
+          "language": "Italian",
+          "multiverseid": 148855
+        },
+        {
+          "name": "脱水",
+          "text": "エンチャント（クリーチャー） （これをプレイする際に、クリーチャー１体を対象とする。 このカードはそのクリーチャーにつけられている状態で場に出る。）\nエンチャントされているクリーチャーは、それのコントローラーのアンタップ・ステップにアンタップしない。",
+          "type": "エンチャント — オーラ",
+          "flavor": "ヴィーアシーノは、大砂漠を渡るための乾燥食料を作るためにこの呪文を使っていた。 後にスークアタは、それが戦争に使えることを見つけた。",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=148089&type=card",
+          "language": "Japanese",
+          "multiverseid": 148089
+        },
+        {
+          "name": "Desidratação",
+          "text": "Encantar criatura (Ao jogar este card, escolha uma criatura alvo. Este card entra em jogo anexado àquela criatura.)\nA criatura encantada não é desvirada durante a etapa de desvirar de seu controlador.",
+          "type": "Encantamento — Aura",
+          "flavor": "O viashino usou a mágica para secar alimentos para a travessia do Grande Deserto. Mais tarde, o Suq'Ata descobriu seu uso na guerra.",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=149628&type=card",
+          "language": "Portuguese (Brazil)",
+          "multiverseid": 149628
+        },
+        {
+          "name": "Иссушение",
+          "text": "Зачаровать существо (При разыгрывании этой карты выберите целью существо. Эта карта входит в игру прикрепленной к тому существу.)\nЗачарованное существо не разворачивается во время шага разворота контролирующего его игрока.",
+          "type": "Чары — Аура",
+          "flavor": "Виашино применяли это заклинание, чтобы засушить продовольствие для перехода через Большую пустыню. Позднее Суквата научились использовать его в войне.",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=149245&type=card",
+          "language": "Russian",
+          "multiverseid": 149245
+        },
+        {
+          "name": "脱水",
+          "text": "生物结界（于使用时指定一个生物为目标。 此牌进场时结附在该生物上。）\n受此结界的生物于其操控者的重置步骤中不能重置。",
+          "type": "结界～灵气",
+          "flavor": "凡尔西诺用此咒语制造横越大沙漠所需干粮。 稍后舒夸塔人发现其战场上的用途。",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=147706&type=card",
+          "language": "Chinese Simplified",
+          "multiverseid": 147706
+        }
+      ],
+      "printings": [
+        "10E",
+        "8ED",
+        "9ED",
+        "MMQ",
+        "PSAL"
+      ],
+      "originalText": "Enchant creature (Target a creature as you play this. This card comes into play attached to that creature.)\nEnchanted creature doesn't untap during its controller's untap step.",
+      "originalType": "Enchantment - Aura",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Duel",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Pauper",
+          "legality": "Legal"
+        },
+        {
+          "format": "Paupercommander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Penny",
+          "legality": "Legal"
+        },
+        {
+          "format": "Premodern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "id": "5a50a7e8-2ed1-5e8a-8867-c96f1186bd47"
+    },
+    {
+      "name": "Skyhunter Patrol",
+      "manaCost": "{2}{W}{W}",
+      "cmc": 4.0,
+      "colors": [
+        "White"
+      ],
+      "colorIdentity": [
+        "W"
+      ],
+      "type": "Creature — Cat Knight",
+      "types": [
+        "Creature"
+      ],
+      "subtypes": [
+        "Cat",
+        "Knight"
+      ],
+      "rarity": "Common",
+      "set": "10E",
+      "setName": "Tenth Edition",
+      "text": "Flying, first strike (This creature can't be blocked except by creatures with flying or reach, and it deals combat damage before creatures without first strike.)",
+      "flavor": "\"We leonin have come to rule the plains by taking to the skies.\"\n—Raksha Golden Cub",
+      "artist": "Matt Cavotta",
+      "number": "41",
+      "power": "2",
+      "toughness": "3",
+      "layout": "normal",
+      "multiverseid": "129735",
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=129735&type=card",
+      "variations": [
+        "db62961f-51de-569a-bfd8-b3f82abf1b18"
+      ],
+      "foreignNames": [
+        {
+          "name": "Himmeljäger-Patrouille",
+          "text": "Fliegend, Erstschlag (Diese Kreatur kann außer von fliegenden Kreaturen und Kreaturen mit Reichweite nicht geblockt werden und fügt Kampfschaden vor Kreaturen ohne Erstschlag zu.)",
+          "type": "Kreatur — Katze, Ritter",
+          "flavor": "„Wir Leoniden haben die Herrschaft über die Ebenen errungen, indem wir die Lüfte erobert haben.\" —Raksha Goldjunges",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=148696&type=card",
+          "language": "German",
+          "multiverseid": 148696
+        },
+        {
+          "name": "Patrulla cazacielo",
+          "text": "Vuela, daña primero. (Esta criatura no puede ser bloqueada excepto por criaturas que tengan la habilidad de volar o alcance, y hace daño de combate antes que las criaturas sin la habilidad de dañar primero.)",
+          "type": "Criatura — Caballero felino",
+          "flavor": "\"Los leoninos hemos logrado dominar las llanuras llegando a los cielos.\" —Raksha Cachorro Dorado",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=150357&type=card",
+          "language": "Spanish",
+          "multiverseid": 150357
+        },
+        {
+          "name": "Patrouille chasseciel",
+          "text": "Vol, initiative (Cette créature ne peut être bloquée que par des créatures avec le vol ou la portée, et elle inflige des blessures de combat avant les créatures sans l'initiative.)",
+          "type": "Créature : chat et chevalier",
+          "flavor": "« Les léonins sont parvenus à régner sur les plaines en dominant les cieux. » —Raksha Lionceaudor",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=149974&type=card",
+          "language": "French",
+          "multiverseid": 149974
+        },
+        {
+          "name": "Pattuglia di Solcacielo",
+          "text": "Volare, attacco improvviso (Questa creatura non può essere bloccata tranne che da creature con volare o raggiungere, e infligge danno da combattimento prima delle creature senza attacco improvviso.)",
+          "type": "Creatura — Cavaliere Felino",
+          "flavor": "\"Noi leonid siamo riusciti a governare le pianure ritirandoci in cielo.\" —Raksha, Cucciolo d'Oro",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=149079&type=card",
+          "language": "Italian",
+          "multiverseid": 149079
+        },
+        {
+          "name": "空狩人の巡回兵",
+          "text": "飛行、先制攻撃 （このクリーチャーは飛行や到達を持たないクリーチャーによってブロックされず、先制攻撃を持たないクリーチャーよりも先に戦闘ダメージを与える。）",
+          "type": "クリーチャー — 猫・騎士",
+          "flavor": "我々レオニンは、空を飛ぶことで平原を制圧してきた。 ――黄金の若人ラクシャ",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=148313&type=card",
+          "language": "Japanese",
+          "multiverseid": 148313
+        },
+        {
+          "name": "Patrulha Caçadora Celeste",
+          "text": "Voar, iniciativa (Esta criatura só pode ser bloqueada por criaturas com a habilidade de voar ou alcance, e causa dano de combate antes de criaturas sem a habilidade de iniciativa.)",
+          "type": "Criatura — Felino Cavaleiro",
+          "flavor": "\"Nós leoninos passamos a governar as planícies alçando vôo nos céus.\" — Raksha, Filhote Dourado",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=149591&type=card",
+          "language": "Portuguese (Brazil)",
+          "multiverseid": 149591
+        },
+        {
+          "name": "Патруль Небесных Охотников",
+          "text": "Полет, Первый удар (Это существо может быть заблокировано только существом с Полетом или Захватом и наносит боевые повреждения раньше существ без Первого удара.)",
+          "type": "Существо — Кошка Рыцарь",
+          "flavor": "\"Мы, леонинцы, царим на равнине, паря высоко в небе\". — Ракша, Золотая львица",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=149208&type=card",
+          "language": "Russian",
+          "multiverseid": 149208
+        },
+        {
+          "name": "巡防空猎者",
+          "text": "飞行，先攻（只有具飞行或延势异能的生物才能阻挡它，且它会比不具先攻异能的生物提前造成战斗伤害。）",
+          "type": "生物～猫／骑士",
+          "flavor": "「我们狮族飞入长空，藉以统治无尽平原。」 ～金狮王洛夏",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=147930&type=card",
+          "language": "Chinese Simplified",
+          "multiverseid": 147930
+        }
+      ],
+      "printings": [
+        "10E",
+        "DDG",
+        "MRD",
+        "PSAL"
+      ],
+      "originalText": "Flying, first strike (This creature can't be blocked except by creatures with flying or reach, and it deals combat damage before creatures without first strike.)",
+      "originalType": "Creature - Cat Knight",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Duel",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Pauper",
+          "legality": "Legal"
+        },
+        {
+          "format": "Paupercommander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Penny",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "id": "db398a18-0d81-50ba-bc86-a7de52a1be7f"
+    },
+    {
+      "name": "Duct Crawler",
+      "manaCost": "{R}",
+      "cmc": 1.0,
+      "colors": [
+        "Red"
+      ],
+      "colorIdentity": [
+        "R"
+      ],
+      "type": "Creature — Insect",
+      "types": [
+        "Creature"
+      ],
+      "subtypes": [
+        "Insect"
+      ],
+      "rarity": "Common",
+      "set": "10E",
+      "setName": "Tenth Edition",
+      "text": "{1}{R}: Target creature can't block Duct Crawler this turn.",
+      "flavor": "\"Boss told us to try and train 'em. Trained it to attack—it ate Flugg. Trained it to run fast—it got away. Success!\"\n—Dlig, goblin spelunker",
+      "artist": "Stephen Daniele",
+      "number": "198",
+      "power": "1",
+      "toughness": "1",
+      "layout": "normal",
+      "multiverseid": "129579",
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=129579&type=card",
+      "foreignNames": [
+        {
+          "name": "Schachtkrabbler",
+          "text": "{1}{R}: Eine Kreatur deiner Wahl kann den Schachtkrabbler in diesem Zug nicht blocken.",
+          "type": "Kreatur — Insekt",
+          "flavor": "„Der Boss hat gesagt, wir solln ihn abrichten. Ham ihm Angriff beigebracht — hat dann Flugg gefressen. Ham ihm schnell rennen beigebracht — ist abgehauen. Erfolg\" —Dlig, Goblin-Höhlenforscher",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=148488&type=card",
+          "language": "German",
+          "multiverseid": 148488
+        },
+        {
+          "name": "Rondador de los conductos",
+          "text": "{1}{R}: La criatura objetivo no puede bloquear al Rondador de los conductos este turno.",
+          "type": "Criatura — Insecto",
+          "flavor": "\"El jefe nos dijo que intentáramos entrenarlos. Entrenado para atacar: se comió a Flugg. Entrenado para correr: huyó. ¡Un éxito\" —Dlig, espeleólogo trasgo",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=150514&type=card",
+          "language": "Spanish",
+          "multiverseid": 150514
+        },
+        {
+          "name": "Rampe-conduit",
+          "text": "{1}{R} : La créature ciblée ne peut pas bloquer le Rampe-conduit ce tour-ci.",
+          "type": "Créature : insecte",
+          "flavor": "« L'patron a dit d'les dresser. J'ai dressé l'premier à attaquer — l'a mangé Flugg. Pis l'deuxième à courir vite — l'est parti. J'ai réussi » —Dlig, spéléologue gobelin",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=150131&type=card",
+          "language": "French",
+          "multiverseid": 150131
+        },
+        {
+          "name": "Parassita dei Condotti",
+          "text": "{1}{R}: Una creatura bersaglio non può bloccare il Parassita dei Condotti in questo turno.",
+          "type": "Creatura — Insetto",
+          "flavor": "\"Il capo ci ha detto di provare ad addestrarli. Addestrato ad attaccare, ha mangiato Flugg. Addestrato a correre veloce, è scappato. Bel lavoro\" —Dlig, goblin speleologo",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=148871&type=card",
+          "language": "Italian",
+          "multiverseid": 148871
+        },
+        {
+          "name": "暗渠を這うもの",
+          "text": "{1}{R}：クリーチャー１体を対象とする。このターン、それは暗渠を這うものをブロックできない。",
+          "type": "クリーチャー — 昆虫",
+          "flavor": "親分がこいつを訓練しろって言ったのさ。 襲えって言ったら――フラーグを食っちまった。 走れって言ったら――逃げちまった。 うまくいったな！ ――ゴブリンの洞窟探検家、ドリッグ",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=148105&type=card",
+          "language": "Japanese",
+          "multiverseid": 148105
+        },
+        {
+          "name": "Rastejador dos Dutos",
+          "text": "{1}{R}: A criatura alvo não pode bloquear Rastejador dos Dutos neste turno.",
+          "type": "Criatura — Inseto",
+          "flavor": "\"O mestre nos mandou treiná-los. Treinamos ele para atacar ele devorou Flugg. Treinamos ele para correr rápido ele fugiu. Sucesso\" — Dlig, goblin espeleólogo",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=149748&type=card",
+          "language": "Portuguese (Brazil)",
+          "multiverseid": 149748
+        },
+        {
+          "name": "Тараканище",
+          "text": "{1}{R}: Целевое существо не может блокировать Тараканище в этом ходу.",
+          "type": "Существо — Насекомое",
+          "flavor": "\"Шеф приказал их поднатаскать. Научили нападать, так они Флугга сожрали. Научили быстро бегать, так они сразу смылись. Вроде получается\" — Длиг, пещерный гоблин",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=149365&type=card",
+          "language": "Russian",
+          "multiverseid": 149365
+        },
+        {
+          "name": "水道虱虫",
+          "text": "{1}{R}：目标生物本回合中不能阻挡水道虱虫。",
+          "type": "生物～昆虫",
+          "flavor": "「老大要我们试看看训练他。 要他攻击～他吃掉夫鲁。 要他快跑～他就跑不见。 成功！」 ～精灵探窟员狄力",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=147722&type=card",
+          "language": "Chinese Simplified",
+          "multiverseid": 147722
+        }
+      ],
+      "printings": [
+        "10E",
+        "STH"
+      ],
+      "originalText": "{1}{R}: Target creature can't block Duct Crawler this turn.",
+      "originalType": "Creature - Insect",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Duel",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Pauper",
+          "legality": "Legal"
+        },
+        {
+          "format": "Paupercommander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Penny",
+          "legality": "Legal"
+        },
+        {
+          "format": "Premodern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "id": "91ea7dc6-6498-5ecf-853f-0090ae00fbfb"
+    },
+    {
+      "name": "Severed Legion",
+      "manaCost": "{1}{B}{B}",
+      "cmc": 3.0,
+      "colors": [
+        "Black"
+      ],
+      "colorIdentity": [
+        "B"
+      ],
+      "type": "Creature — Zombie",
+      "types": [
+        "Creature"
+      ],
+      "subtypes": [
+        "Zombie"
+      ],
+      "rarity": "Common",
+      "set": "10E",
+      "setName": "Tenth Edition",
+      "text": "Fear (This creature can't be blocked except by artifact creatures and/or black creatures.)",
+      "flavor": "No one in Aphetto answers a knock at the door after sundown.",
+      "artist": "Dany Orizio",
+      "number": "177",
+      "power": "2",
+      "toughness": "2",
+      "layout": "normal",
+      "multiverseid": "129693",
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=129693&type=card",
+      "variations": [
+        "285ed705-6771-5dc8-8076-c252fe984278"
+      ],
+      "foreignNames": [
+        {
+          "name": "Zerfledderte Legion",
+          "text": "Furcht (Diese Kreatur kann nur von Artefaktkreaturen und/oder schwarzen Kreaturen geblockt werden.)",
+          "type": "Kreatur — Zombie",
+          "flavor": "Nach Sonnenuntergang macht niemand in Aphetto die Tür auf, wenn es klopft.",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=148684&type=card",
+          "language": "German",
+          "multiverseid": 148684
+        },
+        {
+          "name": "Legión cercenada",
+          "text": "Inspirar temor. (Esta criatura no puede ser bloqueada excepto por criaturas artefacto y/o criaturas negras.)",
+          "type": "Criatura — Zombie",
+          "flavor": "En Afetto nadie responde cuando llaman a la puerta después de la puesta del sol.",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=150493&type=card",
+          "language": "Spanish",
+          "multiverseid": 150493
+        },
+        {
+          "name": "Légion sectionnée",
+          "text": "Peur (Cette créature ne peut pas être bloquée excepté par des créatures-artefacts et/ou des créatures noires.)",
+          "type": "Créature : zombie",
+          "flavor": "À Aphetto, personne n'ouvre quand on frappe à la porte après le crépuscule.",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=150110&type=card",
+          "language": "French",
+          "multiverseid": 150110
+        },
+        {
+          "name": "Legione di Arti",
+          "text": "Paura (Questa creatura non può essere bloccata tranne che da creature artefatto e/o creature nere.)",
+          "type": "Creatura — Zombie",
+          "flavor": "Nessuno ad Aphetto risponde a chi bussa dopo il tramonto.",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=149067&type=card",
+          "language": "Italian",
+          "multiverseid": 149067
+        },
+        {
+          "name": "切り刻まれた軍勢",
+          "text": "畏怖 （このクリーチャーはアーティファクトでも黒でもないクリーチャーによってブロックされない。）",
+          "type": "クリーチャー — ゾンビ",
+          "flavor": "アフェットでは、日が落ちると誰もノックに応じない。",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=148301&type=card",
+          "language": "Japanese",
+          "multiverseid": 148301
+        },
+        {
+          "name": "Legião Apartada",
+          "text": "Amedrontar (Esta criatura só pode ser bloqueada por criaturas pretas e/ou criaturas artefato.)",
+          "type": "Criatura — Zumbi",
+          "flavor": "Em Aphetto, ninguém atende à porta após o pôr-do-sol.",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=149727&type=card",
+          "language": "Portuguese (Brazil)",
+          "multiverseid": 149727
+        },
+        {
+          "name": "Искромсанный Легион",
+          "text": "Страх (Это существо может быть заблокировано только артефактным существом и/или черным существом.)",
+          "type": "Существо — Зомби",
+          "flavor": "Ни одна живая душа в Афетто не откроет дверь на стук, раздавшийся после захода солнца.",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=149344&type=card",
+          "language": "Russian",
+          "multiverseid": 149344
+        },
+        {
+          "name": "断肢军团兵",
+          "text": "恐惧（此生物只能被神器和／或黑色生物阻挡。）",
+          "type": "生物～灵俑",
+          "flavor": "日落后的艾非托没人会应门。",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=147918&type=card",
+          "language": "Chinese Simplified",
+          "multiverseid": 147918
+        }
+      ],
+      "printings": [
+        "10E",
+        "8ED",
+        "DPA",
+        "ONS",
+        "PS11"
+      ],
+      "originalText": "Fear (This creature can't be blocked except by artifact creatures and/or black creatures.)",
+      "originalType": "Creature - Zombie",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Duel",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Pauper",
+          "legality": "Legal"
+        },
+        {
+          "format": "Paupercommander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Penny",
+          "legality": "Legal"
+        },
+        {
+          "format": "Premodern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "id": "e9cf9c31-aa62-53f4-bff2-71cd5e2f4004"
+    },
+    {
+      "name": "Twitch",
+      "manaCost": "{2}{U}",
+      "cmc": 3.0,
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "U"
+      ],
+      "type": "Instant",
+      "types": [
+        "Instant"
+      ],
+      "rarity": "Common",
+      "set": "10E",
+      "setName": "Tenth Edition",
+      "text": "You may tap or untap target artifact, creature, or land.\nDraw a card.",
+      "flavor": "Battles are won in nuance.",
+      "artist": "DiTerlizzi",
+      "number": "121",
+      "layout": "normal",
+      "multiverseid": "136286",
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=136286&type=card",
+      "rulings": [
+        {
+          "date": "2010-03-01",
+          "text": "If the targeted permanent is an illegal target by the time Twitch resolves, the entire spell doesn’t resolve. You don’t draw a card."
+        }
+      ],
+      "foreignNames": [
+        {
+          "name": "Taumeln",
+          "text": "Du kannst ein Artefakt, eine Kreatur oder ein Land deiner Wahl tappen oder enttappen.Ziehe eine Karte.",
+          "type": "Spontanzauber",
+          "flavor": "Kleine Einzelheiten können große Schlachten gewinnen.",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=148756&type=card",
+          "language": "German",
+          "multiverseid": 148756
+        },
+        {
+          "name": "Punzada",
+          "text": "Puedes girar o enderezar el artefacto, criatura o tierra objetivo.\nRoba una carta.",
+          "type": "Instantáneo",
+          "flavor": "Las batallas se ganan por los detalles.",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=150437&type=card",
+          "language": "Spanish",
+          "multiverseid": 150437
+        },
+        {
+          "name": "Spasme",
+          "text": "Vous pouvez engager ou dégager l'artefact ciblé, la créature ciblée ou le terrain ciblé.\nPiochez une carte.",
+          "type": "Éphémère",
+          "flavor": "D'un infime détail dépend souvent la victoire.",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=150054&type=card",
+          "language": "French",
+          "multiverseid": 150054
+        },
+        {
+          "name": "Strattonare",
+          "text": "Puoi TAPpare o STAPpare un artefatto, una creatura o una terra bersaglio.\nPesca una carta.",
+          "type": "Istantaneo",
+          "flavor": "Le vittorie in battaglia dipendono dai particolari.",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=149139&type=card",
+          "language": "Italian",
+          "multiverseid": 149139
+        },
+        {
+          "name": "ひきつり",
+          "text": "アーティファクト１つかクリーチャー１体か土地１つを対象とする。あなたはそれをタップまたはアンタップしてもよい。\nカードを１枚引く。",
+          "type": "インスタント",
+          "flavor": "戦いに勝ったかどうかということは、解釈のしかた次第だ。",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=148373&type=card",
+          "language": "Japanese",
+          "multiverseid": 148373
+        },
+        {
+          "name": "Safanão",
+          "text": "Você pode virar ou desvirar o artefato, terreno ou criatura alvo.\nCompre um card.",
+          "type": "Mágica Instantânea",
+          "flavor": "As batalhas são vencidas nas nuances.",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=149671&type=card",
+          "language": "Portuguese (Brazil)",
+          "multiverseid": 149671
+        },
+        {
+          "name": "Судорога",
+          "text": "Вы можете повернуть или развернуть целевой артефакт, существо или землю.\nВозьмите карту.",
+          "type": "Мгновенное заклинание",
+          "flavor": "Победа в сражениях дается за счет нюансов.",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=149288&type=card",
+          "language": "Russian",
+          "multiverseid": 149288
+        },
+        {
+          "name": "抽搐",
+          "text": "你可以重置或横置目标神器、生物、或者地。\n抓一张牌。",
+          "type": "瞬间",
+          "flavor": "战争的致胜关键在于细微之处。",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=147990&type=card",
+          "language": "Chinese Simplified",
+          "multiverseid": 147990
+        }
+      ],
+      "printings": [
+        "10E",
+        "TMP",
+        "TPR",
+        "WWK"
+      ],
+      "originalText": "You may tap or untap target artifact, creature, or land.\nDraw a card.",
+      "originalType": "Instant",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Duel",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Pauper",
+          "legality": "Legal"
+        },
+        {
+          "format": "Paupercommander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Penny",
+          "legality": "Legal"
+        },
+        {
+          "format": "Premodern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "id": "7b259873-da0b-5e3c-982e-986bf2504820"
+    },
+    {
+      "name": "Snapping Drake",
+      "manaCost": "{3}{U}",
+      "cmc": 4.0,
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "U"
+      ],
+      "type": "Creature — Drake",
+      "types": [
+        "Creature"
+      ],
+      "subtypes": [
+        "Drake"
+      ],
+      "rarity": "Common",
+      "set": "10E",
+      "setName": "Tenth Edition",
+      "text": "Flying (This creature can't be blocked except by creatures with flying or reach.)",
+      "flavor": "The irritable drakes are solitary nesters. Even brooding females barely contain the urge to attack their own young.",
+      "artist": "Dave Dorman",
+      "number": "110★",
+      "power": "3",
+      "toughness": "2",
+      "layout": "normal",
+      "variations": [
+        "381e8d26-d8ca-5755-ba19-5fba857a7920"
+      ],
+      "printings": [
+        "10E",
+        "BTD",
+        "DPA",
+        "M10",
+        "M19",
+        "M20",
+        "MB1",
+        "POR",
+        "PPOD",
+        "PS11",
+        "RAV",
+        "S99"
+      ],
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Duel",
+          "legality": "Legal"
+        },
+        {
+          "format": "Gladiator",
+          "legality": "Legal"
+        },
+        {
+          "format": "Historic",
+          "legality": "Legal"
+        },
+        {
+          "format": "Historicbrawl",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Pauper",
+          "legality": "Legal"
+        },
+        {
+          "format": "Paupercommander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Penny",
+          "legality": "Legal"
+        },
+        {
+          "format": "Pioneer",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "id": "c0b0e7a5-4252-57f5-8ed0-399d08c0523f"
+    },
+    {
+      "name": "Tundra Wolves",
+      "manaCost": "{W}",
+      "cmc": 1.0,
+      "colors": [
+        "White"
+      ],
+      "colorIdentity": [
+        "W"
+      ],
+      "type": "Creature — Wolf",
+      "types": [
+        "Creature"
+      ],
+      "subtypes": [
+        "Wolf"
+      ],
+      "rarity": "Common",
+      "set": "10E",
+      "setName": "Tenth Edition",
+      "text": "First strike (This creature deals combat damage before creatures without first strike.)",
+      "flavor": "\"I heard their eerie howling, the wolves calling their kindred across the frozen plains.\"\n—Onean scout",
+      "artist": "Richard Sardinha",
+      "number": "54★",
+      "power": "1",
+      "toughness": "1",
+      "layout": "normal",
+      "variations": [
+        "94cb0244-f6ae-50c5-ba26-fd3f861c3bb0"
+      ],
+      "printings": [
+        "10E",
+        "4BB",
+        "4ED",
+        "5ED",
+        "6ED",
+        "8ED",
+        "LEG",
+        "PS11",
+        "REN"
+      ],
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Duel",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Pauper",
+          "legality": "Legal"
+        },
+        {
+          "format": "Paupercommander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Premodern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "id": "ede09d78-f4b5-59eb-8356-dd125323f74f"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<SmellBaseline>
+  <ManuallySuppressedIssues></ManuallySuppressedIssues>
+  <CurrentIssues>
+    <ID>ConstructorParameterNaming:CardDetailsResponse.kt$CardDetailsResponse.Card$@SerializedName("set") val `set`: String</ID>
+    <ID>ConstructorParameterNaming:CardsDataResponse.kt$CardsDataResponse.Card$@SerializedName("set") val `set`: String</ID>
+    <ID>MagicNumber:ApiModule.kt$ApiModule$60</ID>
+    <ID>MatchingDeclarationName:SetsPagingSource.kt$MtgPagingSource : PagingSource</ID>
+    <ID>MaxLineLength:CardsBoosterPagingSource.kt$CardsBoosterPagingSource$*</ID>
+    <ID>MaxLineLength:CardsDetailsFragment.kt$CardsDetailsFragment$binding?.colorsText?.text = "Colors: ${data.card.colors[0] ?: context?.getString(R.string.no_data_place_holder)}"</ID>
+    <ID>MaxLineLength:CardsDetailsFragment.kt$CardsDetailsFragment$binding?.setNameText?.text = "Set name: ${data.card.setName ?: context?.getString(R.string.no_data_place_holder)}"</ID>
+    <ID>MaxLineLength:CardsDetailsFragment.kt$CardsDetailsFragment$binding?.tvCardType?.text = "Original type: ${data.card.originalType ?: context?.getString(R.string.no_data_place_holder)}"</ID>
+    <ID>MaxLineLength:CardsDetailsFragment.kt$CardsDetailsFragment$binding?.tvManaCost?.text = "Mana Cost: ${data.card.manaCost ?: context?.getString(R.string.no_data_place_holder)}"</ID>
+    <ID>MaxLineLength:CardsListAdapter.kt$CardsListAdapter$class</ID>
+    <ID>MaxLineLength:CardsPagingSource.kt$CardsPagingSource$*</ID>
+    <ID>MaxLineLength:CrashlyticsTree.kt$CrashlyticsTree$*</ID>
+    <ID>MaxLineLength:MtgApiInterface.kt$MtgApiInterface$suspend</ID>
+    <ID>MaxLineLength:SetsListAdapter.kt$SetsListAdapter$class</ID>
+    <ID>MaxLineLength:SetsListAdapter.kt$SetsListAdapter.ViewHolder$val blockTypeName = "Block name: ${singleSet.block ?: root.context.getString(R.string.no_data_place_holder)}"</ID>
+    <ID>MaxLineLength:SetsListAdapter.kt$SetsListAdapter.ViewHolder$val releaseDate = "Release date: ${singleSet.releaseDate ?: root.context.getString(R.string.no_data_place_holder) }"</ID>
+    <ID>MaxLineLength:SetsListFragment.kt$SetsListFragment$binding?.setsRecyclerView?.layoutManager = LinearLayoutManager(requireContext(), LinearLayoutManager.VERTICAL, false)</ID>
+    <ID>MaxLineLength:SetsListFragment.kt$SetsListFragment$val list = listOf(getString(R.string.option_view_cards_list), getString(R.string.option_generate_random_booster))</ID>
+    <ID>MaxLineLength:SetsPagingSource.kt$MtgPagingSource$*</ID>
+    <ID>TooGenericExceptionCaught:CardsBoosterPagingSource.kt$CardsBoosterPagingSource$e: Exception</ID>
+    <ID>TooGenericExceptionCaught:CardsDetailsViewModel.kt$CardsDetailsViewModel$ex: Exception</ID>
+    <ID>TooGenericExceptionCaught:CardsPagingSource.kt$CardsPagingSource$e: Exception</ID>
+    <ID>TooGenericExceptionCaught:CrashlyticsTree.kt$CrashlyticsTree$exception: Exception</ID>
+    <ID>TooGenericExceptionCaught:SetsPagingSource.kt$MtgPagingSource$e: Exception</ID>
+    <ID>UtilityClassWithPublicConstructor:MtgConstants.kt$MtgConstants</ID>
+  </CurrentIssues>
+</SmellBaseline>

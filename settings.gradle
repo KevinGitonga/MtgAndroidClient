@@ -1,0 +1,2 @@
+rootProject.name = "MtgAndroidClient"
+include ':app'

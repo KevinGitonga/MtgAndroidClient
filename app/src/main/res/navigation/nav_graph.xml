@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/FirstFragment">
+
+    <fragment
+        android:id="@+id/FirstFragment"
+        android:name="io.android.client.ui.setslist.SetsListFragment"
+        tools:layout="@layout/fragment_list">
+        <action
+            android:id="@+id/action_FirstFragment_to_cardsListFragment"
+            app:destination="@id/cardsListFragment"
+            app:enterAnim="@anim/nav_default_enter_anim"
+            app:exitAnim="@anim/nav_default_exit_anim"
+            app:popEnterAnim="@anim/nav_default_pop_enter_anim"
+            app:popExitAnim="@anim/nav_default_pop_exit_anim" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/cardsListFragment"
+        android:name="io.android.client.ui.cardslist.CardsListFragment"
+        tools:layout="@layout/fragment_list">
+
+        <argument
+            android:name="setdetails"
+            app:nullable="false"
+            app:argType="io.android.client.localdata.SetDetailsExtras" />
+        <action
+            android:id="@+id/action_cardsListFragment_to_cardsDetailsFragment"
+            app:destination="@id/cardsDetailsFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/cardsDetailsFragment"
+        android:name="io.android.client.ui.carddetails.CardsDetailsFragment"
+        >
+        <argument
+            android:name="carddetails"
+            app:nullable="false"
+            app:argType="io.android.client.localdata.CardDetailsExtras" />
+    </fragment>
+
+</navigation>

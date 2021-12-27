@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+  ~ /**
+  ~  * Created by kevingitonga on 29/11/2021, 09:56
+  ~  * Copyright (c) 2021 . All rights reserved.
+  ~  * Last modified 29/11/2021, 09:56
+  ~  */
+  -->
+<network-security-config>
+    <domain-config cleartextTrafficPermitted="true">
+        <domain includeSubdomains="false">gatherer.wizards.com</domain>
+    </domain-config>
+</network-security-config>

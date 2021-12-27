@@ -1,0 +1,31 @@
+/*
+ * *
+ *  * Created by kevingitonga on 30/11/2021, 13:07
+ *  * Copyright (c) 2021 . All rights reserved.
+ *  * Last modified 30/11/2021, 13:07
+ *
+ */
+
+spotless {
+
+    // optional: limit format enforcement to just the files changed by this feature branch
+    ratchetFrom 'origin/main'
+
+    format 'misc', {
+        // define the files to apply `misc` to
+        target '**/*.gradle', '**/*.md', '**/.gitignore'
+
+        // define the steps to apply to those files
+        indentWithSpaces()
+        trimTrailingWhitespace()
+        endWithNewline()
+    }
+
+    kotlin {
+        target '**/*.kt'
+        ktlint()
+        trimTrailingWhitespace()
+        indentWithSpaces()
+        endWithNewline()
+    }
+}
